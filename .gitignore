@@ -1,0 +1,16 @@
+# Explicit publication allowlist. New source files require an intentional update.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/SECURITY.md
+!/LICENSE
+!/book_model.py
+!/ebook_export.py
+!/text_downloader.py
+!/download-text.ps1
+!/requirements-text.txt
+!/test_book_model.py
+!/test_ebook_export.py
+!/scripts/
+!/scripts/check_publication.py
