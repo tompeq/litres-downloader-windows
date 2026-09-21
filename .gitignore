@@ -4,7 +4,6 @@
 !/.gitattributes
 !/README.md
 !/SECURITY.md
-!/LICENSE
 !/book_model.py
 !/ebook_export.py
 !/text_downloader.py

@@ -7,7 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 ALLOWED = {
-    '.gitignore', '.gitattributes', 'README.md', 'SECURITY.md', 'LICENSE',
+    '.gitignore', '.gitattributes', 'README.md', 'SECURITY.md',
     'book_model.py', 'ebook_export.py', 'text_downloader.py', 'download-text.ps1',
     'requirements-text.txt', 'test_book_model.py', 'test_ebook_export.py',
     'scripts/check_publication.py',
